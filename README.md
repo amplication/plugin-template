@@ -1,4 +1,4 @@
-# @amplication/plugin-<name>
+# @amplication/plugin-{your-plugin-name}
 
 [![NPM Downloads](https://img.shields.io/npm/dt/@amplication/plugin-auth-basic)](https://www.npmjs.com/package/@amplication/plugin-auth-basic)
 
