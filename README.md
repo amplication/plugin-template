@@ -1,6 +1,6 @@
-# plugin-{your-plugin-name}
+# plugin-<name>
 
-[![NPM Downloads](https://img.shields.io/npm/dt/plugin-{your-plugin-name})](https://www.npmjs.com/package/plugin-{your-plugin-name})
+[![NPM Downloads](https://img.shields.io/npm/dt/@amplication/plugin-<name>)](https://www.npmjs.com/package/@amplication/plugin-<name>)
 
 A short description of the plugin and its actions.
 
